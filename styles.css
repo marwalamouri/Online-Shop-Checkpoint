@@ -1,0 +1,25 @@
+/* .header-content {
+  height: 70px;
+} */
+/* 
+.bg-img{
+  background-image: url("https://www.bobswatches.com/rolex-blog/wp-content/uploads/2019/11/20JM1829-2-Edit-1536x1024.jpg");
+  background-position: center;
+  background-size: cover;
+  min-height: 100vh;
+  width: 100%;
+}
+*/
+
+/* background image url
+https://www.bobswatches.com/rolex-blog/wp-content/uploads/2019/11/20JM1829-2-Edit-1536x1024.jpg*/
+
+a {
+  text-decoration: none !important;
+}
+#products .card:hover{
+  cursor: pointer;
+  box-shadow:  4px 4px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ 
+}
+
